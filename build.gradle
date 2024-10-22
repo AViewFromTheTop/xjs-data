@@ -133,5 +133,6 @@ publishing {
 }
 
 signing {
+    // HELPSOIUJHYBG
     // sign publishing.publications.mavenJava
 }
